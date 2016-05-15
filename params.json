@@ -1,0 +1,6 @@
+{
+  "name": "Imgquality",
+  "tagline": "",
+  "body": "### 需求：图片太大，可不可以将拍摄的图片的大小压缩处理，但是图片的分辨率是不变的 ？\r\n使用开源的程序集：ImageProcessor写一个程序。参考项目：https://github.com/JimBobSquarePants/ImageProcessor.git\r\n\r\n### 第一步：创建项目ImgQuality\r\n Nuget管理程序集，搜索ImageProcessor，安装这个程序集。\r\n\r\n### 第二步：分析\r\n 使用控制台输入参数：这样的格式：  命令  -i 需要压缩图片绝对路径 -p  整数（压缩图片质量的参数） -o 输出压缩后的图片的地址  \r\n\r\n### 第三步：编写代码\r\n获取控制的参数：\r\n 1. for循环获取，控制台中的参数；调试分析吧。\r\n压缩图片程序：\r\n 1. 匹配给定文件夹目录中所有的图片。包括子孙文件夹下的所有的图片。\r\n 2. 使用foreach循环，每个匹配的到的图片，都进行一次图片压缩处理操作。\r\n 3. 全部循环完毕，显示提示信息。\r\n\r\n### 联系我\r\n有问题? call QQ：461330197 ,I will help you .\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
