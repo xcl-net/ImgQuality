@@ -1,0 +1,12 @@
+C:\Users\xcl\Desktop\ImgQuality\ImgQuality\bin\Debug\ImgQuality.exe.config
+C:\Users\xcl\Desktop\ImgQuality\ImgQuality\bin\Debug\ImgQuality.exe
+C:\Users\xcl\Desktop\ImgQuality\ImgQuality\bin\Debug\ImgQuality.pdb
+C:\Users\xcl\Desktop\ImgQuality\ImgQuality\bin\Debug\ImageProcessor.dll
+C:\Users\xcl\Desktop\ImgQuality\ImgQuality\obj\Debug\ImgQuality.exe
+C:\Users\xcl\Desktop\ImgQuality\ImgQuality\obj\Debug\ImgQuality.pdb
+C:\Users\Administrator\Desktop\ImgQuality\ImgQuality\bin\Debug\ImgQuality.exe.config
+C:\Users\Administrator\Desktop\ImgQuality\ImgQuality\bin\Debug\ImgQuality.exe
+C:\Users\Administrator\Desktop\ImgQuality\ImgQuality\bin\Debug\ImgQuality.pdb
+C:\Users\Administrator\Desktop\ImgQuality\ImgQuality\bin\Debug\ImageProcessor.dll
+C:\Users\Administrator\Desktop\ImgQuality\ImgQuality\obj\Debug\ImgQuality.exe
+C:\Users\Administrator\Desktop\ImgQuality\ImgQuality\obj\Debug\ImgQuality.pdb

@@ -1,0 +1,6 @@
+C:\Users\xcl\Desktop\ImgQuality\ImgQuality\bin\Release\ImgQuality.exe.config
+C:\Users\xcl\Desktop\ImgQuality\ImgQuality\bin\Release\ImgQuality.exe
+C:\Users\xcl\Desktop\ImgQuality\ImgQuality\bin\Release\ImgQuality.pdb
+C:\Users\xcl\Desktop\ImgQuality\ImgQuality\bin\Release\ImageProcessor.dll
+C:\Users\xcl\Desktop\ImgQuality\ImgQuality\obj\Release\ImgQuality.exe
+C:\Users\xcl\Desktop\ImgQuality\ImgQuality\obj\Release\ImgQuality.pdb
