@@ -4,3 +4,9 @@ C:\Users\xcl\Desktop\ImgQuality\ImgQuality\bin\Release\ImgQuality.pdb
 C:\Users\xcl\Desktop\ImgQuality\ImgQuality\bin\Release\ImageProcessor.dll
 C:\Users\xcl\Desktop\ImgQuality\ImgQuality\obj\Release\ImgQuality.exe
 C:\Users\xcl\Desktop\ImgQuality\ImgQuality\obj\Release\ImgQuality.pdb
+H:\demoTotal\ImgQuality-master\ImgQuality\bin\Release\ImgQuality.exe.config
+H:\demoTotal\ImgQuality-master\ImgQuality\obj\Release\ImgQuality.exe
+H:\demoTotal\ImgQuality-master\ImgQuality\obj\Release\ImgQuality.pdb
+H:\demoTotal\ImgQuality-master\ImgQuality\bin\Release\ImgQuality.exe
+H:\demoTotal\ImgQuality-master\ImgQuality\bin\Release\ImgQuality.pdb
+H:\demoTotal\ImgQuality-master\ImgQuality\bin\Release\ImageProcessor.dll

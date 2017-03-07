@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Xml.Xsl;
 using ImageProcessor;
 using ImageProcessor.Imaging;
+using ImageProcessor.Imaging.Formats;
 
 namespace ImgQuality
 {
@@ -53,7 +54,7 @@ namespace ImgQuality
                 {
                     Regex regex = new Regex(@"^(?<w>\d+)\*(?<h>\d+)$");
                     var match = regex.Match(args[i + 1] ?? "");
-                    Size = match.Success ? new Size(int.Parse(match.Groups["w"].Value), int.Parse(match.Groups["h"].Value)) : new Size(1280, 0);
+                    Size = match.Success ? new Size(int.Parse(match.Groups["w"].Value), int.Parse(match.Groups["h"].Value)) : new Size(600, 0);
                 }
             }
             if (string.IsNullOrWhiteSpace(OutputDir) || string.IsNullOrWhiteSpace(InputDir))
@@ -105,7 +106,7 @@ namespace ImgQuality
                     {
                         Directory.CreateDirectory(newDir);
                     }
-                    factory.Load(file).Resize(new ResizeLayer(Size, ResizeMode.Max)).Quality(Quality).Save(newFile);
+                    factory.Load(file).Resize(new ResizeLayer(Size, ResizeMode.Max)).Format(new JpegFormat {Quality = Quality}).Save(newFile);
                     Console.WriteLine("{0:f5}% - {1}", (i * 100.0) / count, newFile);
                 }
             }
